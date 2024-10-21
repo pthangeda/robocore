@@ -1,6 +1,7 @@
-## **13. `README.md`**
-
 # RoboCore
+
+> [!Warning]
+> This project is in early development stages and under active development. Breaking changes may occur frequently without notice. Use with caution.
 
 **RoboCore** is a pure Python middleware for robotic communication, emphasizing simplicity, customizability, and ease of use. It enables high-bandwidth, low-latency communication suitable for streaming data like RGB-D arrays.
 
@@ -86,7 +87,11 @@ visualizer.start()
 
 ## Contributing
 
-Contributions are welcome! Please refer to the documentation and follow the coding standards.
+We will welcome contributions once the code development is stable. Please feel free to open an issue if you have any suggestions or feedback.
+
+## Contact
+
+For any feedback or queries, please contact the author at `contact@prny.me`
 
 ---
 
